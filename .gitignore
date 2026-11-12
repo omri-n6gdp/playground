@@ -1,0 +1,17 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# Secrets
+.env
+.env.local
+# Node
+node_modules/
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Scraped contact details stay local
+*.xlsx
